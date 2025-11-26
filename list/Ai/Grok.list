@@ -2,8 +2,8 @@
 # AUTHOR: Hexon
 # REPO: https://github.com/Hexon-X/Hex-Clash
 # UPDATED: 2025-11-23 15:27:23
-# DOMAIN-SUFFIX: 3
-DOMAIN-KEYWORD,openai
+# DOMAIN-SUFFIX: 4
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,api.x.ai
 DOMAIN-SUFFIX,x.ai
