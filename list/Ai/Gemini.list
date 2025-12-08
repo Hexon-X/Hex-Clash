@@ -1,9 +1,16 @@
 # NAME: Gemini
 # AUTHOR: Hexon
 # REPO: https://github.com/Hexon-X/Hex-Clash
-# UPDATED: 2025-11-23 15:29:31
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 15
+# UPDATED: 2025-12-08 22:16:52
+# DOMAIN: 3
+# DOMAIN-KEYWORD: 3
+# DOMAIN-SUFFIX: 13
+DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini-pa.googleapis.com
@@ -14,4 +21,6 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,aistudio-pa.clients6.google.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,android.googleapis.com
-DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,apis.google.com
