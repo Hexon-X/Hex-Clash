@@ -1,7 +1,18 @@
 # NAME: MetaAi
 # AUTHOR: Hexon
 # REPO: https://github.com/Hexon-X/Hex-Clash
-# UPDATED: 2025-11-23 15:31:54
-# DOMAIN-SUFFIX: 2
+# UPDATED: 2026-01-24
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 5
+# TOTAL: 7
+
+# 核心域名
+DOMAIN,auth.meta.com
+DOMAIN,l.facebook.com
+
+# 域名后缀
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
+DOMAIN-SUFFIX,llama.com
+DOMAIN-SUFFIX,llama.meta.com
+DOMAIN-SUFFIX,meta.com
