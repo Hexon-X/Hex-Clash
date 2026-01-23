@@ -1,16 +1,31 @@
 # NAME: Gemini
 # AUTHOR: Hexon
 # REPO: https://github.com/Hexon-X/Hex-Clash
-# UPDATED: 2025-12-08 22:16:52
-# DOMAIN: 3
+# UPDATED: 2026-01-24
+# DOMAIN: 11
 # DOMAIN-KEYWORD: 3
-# DOMAIN-SUFFIX: 13
+# DOMAIN-SUFFIX: 20
+# TOTAL: 34
+
+# 核心域名
 DOMAIN,ai.google.dev
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,makersuite.google.com
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,signaler-pa.clients6.google.com
+DOMAIN,waa-pa.clients6.google.com
+DOMAIN,ogads-pa.clients6.google.com
+DOMAIN,aida.googleapis.com
+DOMAIN,aisandbox-pa.googleapis.com
+DOMAIN,jnn-pa.googleapis.com
+DOMAIN,discoveryengine.clients6.google.com
+
+# 关键字匹配
 DOMAIN-KEYWORD,colab
 DOMAIN-KEYWORD,developerprofiles
 DOMAIN-KEYWORD,generativelanguage
+
+# 域名后缀
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini-pa.googleapis.com
@@ -24,3 +39,10 @@ DOMAIN-SUFFIX,android.googleapis.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,content-autofill.googleapis.com
+DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+DOMAIN-SUFFIX,streetviewpixels-pa.googleapis.com
