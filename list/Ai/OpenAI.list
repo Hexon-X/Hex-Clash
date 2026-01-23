@@ -1,22 +1,47 @@
 # NAME: OpenAI
 # AUTHOR: Hexon
 # REPO: https://github.com/Hexon-X/Hex-Clash
-# UPDATED: 2025-11-23 15:22:33
+# UPDATED: 2026-01-24
+# DOMAIN: 7
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 15
+# DOMAIN-SUFFIX: 24
+# TOTAL: 32
+
+# 关键字匹配
 DOMAIN-KEYWORD,openai
+
+# 核心域名
+DOMAIN,cdn.auth0.com
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,chat.openai.com
+DOMAIN,ab.chatgpt.com
+DOMAIN,cdn.oaistatic.com
+DOMAIN,api-js.mixpanel.com
+DOMAIN,s.gravatar.com
+
+# 域名后缀
+DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,compute-pipe.com
+DOMAIN-SUFFIX,edgecompute.app
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,livekit.cloud
+DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openai.org
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,statsig.com
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,webpubsub.azure.com
