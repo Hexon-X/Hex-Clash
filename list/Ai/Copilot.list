@@ -1,8 +1,60 @@
 # NAME: Copilot
 # AUTHOR: Hexon
 # REPO: https://github.com/Hexon-X/Hex-Clash
-# UPDATED: 2025-11-23 15:32:51
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 1
+# UPDATED: 2026-01-24
+# DOMAIN: 30
+# DOMAIN-SUFFIX: 2
+# TOTAL: 32
+
+# 核心域名
 DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+DOMAIN,www.bingapis.com
+
+# Edge 和设计相关
+DOMAIN,edge.microsoft.com
+DOMAIN,edgeservices.bing.com
+DOMAIN,designer.microsoft.com
+
+# API 和网关
+DOMAIN,gateway-copilot.bingviz.microsoftapp.net
+DOMAIN,gateway.bingviz.microsoftapp.net
+DOMAIN,sapphire.api.microsoftapp.net
+DOMAIN,services.bingapis.com
+
+# Bing 相关
+DOMAIN,th.bing.com
+DOMAIN,c.bing.com
+DOMAIN,ssl.bing.com
+
+# Microsoft 基础服务
+DOMAIN,access-point.cloudmessaging.edge.microsoft.com
+DOMAIN,browser.pipe.aria.microsoft.com
+DOMAIN,location.microsoft.com
+DOMAIN,graph.microsoft.com
+
+# 认证相关
+DOMAIN,login.microsoftonline.com
+DOMAIN,logincdn.msauth.net
+DOMAIN,acctcdn.msauth.net
+DOMAIN,account.live.com
+
+# Office 相关
+DOMAIN,substrate.office.com
+DOMAIN,odc.officeapps.live.com
+
+# 数据和分析
+DOMAIN,functional.events.data.microsoft.com
+DOMAIN,self.events.data.microsoft.com
+DOMAIN,mobile.events.data.microsoft.com
+DOMAIN,in.appcenter.ms
+DOMAIN,analytics.adjust.com
+
+# 其他服务
+DOMAIN,api.msn.com
+DOMAIN,prod.rewardsplatform.microsoft.com
+
+# 域名后缀
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,prod.do.dsp.mp.microsoft.com
