@@ -2,16 +2,27 @@
 # AUTHOR: Hexon
 # REPO: https://github.com/Hexon-X/Hex-Clash
 # UPDATED: 2026-01-24
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 5
+# DOMAIN: 4
+# DOMAIN-SUFFIX: 9
 # DOMAIN-KEYWORD: 1
-# TOTAL: 8
+# TOTAL: 14
 
+# 关键字匹配
 DOMAIN-KEYWORD,claude
+
+# 核心域名
 DOMAIN,cdn.usefathom.com
 DOMAIN,platform.claude.com
+DOMAIN,preview.claude.ai
+DOMAIN,feedback.anthropic.com
+
+# 域名后缀
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claude.site
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,anthropiccdn.com
 DOMAIN-SUFFIX,anthropic-cdn.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,anthropicsystem.com
+DOMAIN-SUFFIX,anthropic.cloud
