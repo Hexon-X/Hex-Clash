@@ -1,13 +1,14 @@
 # NAME: Claude
 # AUTHOR: Hexon
 # REPO: https://github.com/Hexon-X/Hex-Clash
-# UPDATED: 2025-06-06 09:20:01
+# UPDATED: 2026-01-24 04:07:49
 # DOMAIN: 1
 # DOMAIN-SUFFIX: 3
 # DOMAIN-KEYWORD: 1
-# TOTAL: 4
+# TOTAL: 5
 DOMAIN-KEYWORD,claude
-DOMAIN-SUFFIX,claude.com
 DOMAIN,cdn.usefathom.com
-DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,anthropic.com
+
