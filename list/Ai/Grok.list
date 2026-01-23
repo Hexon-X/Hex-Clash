@@ -1,9 +1,19 @@
 # NAME: Grok
 # AUTHOR: Hexon
 # REPO: https://github.com/Hexon-X/Hex-Clash
-# UPDATED: 2025-11-23 15:27:23
-# DOMAIN-SUFFIX: 4
+# UPDATED: 2026-01-24
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 6
+# TOTAL: 8
+
+# 核心域名
+DOMAIN,api.x.ai
+DOMAIN,console.x.ai
+
+# 域名后缀
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grokipedia.com
-DOMAIN-SUFFIX,api.x.ai
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,docs.x.ai
+DOMAIN-SUFFIX,docs.grok.com
+DOMAIN-SUFFIX,grok.app
